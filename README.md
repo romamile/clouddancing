@@ -1,2 +1,4 @@
 # clouddancing
-website for the Cloud Dancing project
+Website for the Cloud Dancing project
+
+Family, catastrophy, now legendary...
